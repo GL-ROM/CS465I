@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Gale Reef",
+    "code": "GALR210214",
+    "image": "reef1.jpg",
+    "description": "<p> Gale Reef Sed et augue lorem. In sit amet placerat arcu. Mauris volutpat ipsum ac justo mollis vel vestibulum orci gravida. Vestibulum sit amet porttitor odio. Nulla facilisi. Fusce at pretium felis.</p>"
+  }, {
+    "name": "Dawson’s Reef",
+    "code": "DAWR210315",
+    "image": "reef2.jpg",
+    "description": "<p> Dawson’s Reef vulputate, vulputate at est. Morbi aliquet viverra metus eu consectetur. In lorem dui, elementum sit amet convallis ac, tincidunt vel sapien.</p>"
+  }, {
+    "name": "Claire’s Reef",
+    "name": "Claire's Reef",
+    "image": "reef3.jpg",
+    "description": "<p> Claire’s Reef Donec sed felis risus. Nulla facilisi. Donec a orci tellus, et auctor odio. Fusce ac orci nibh, quis semper arcu. Cras orci neque, euismod et accumsan ac, sagittis molestie lorem. Proin odio sapien, elementum at tempor non.</p>"
+  }, {
+    "code": "BART210713",
+    "name": "Bart's Cove",
+    "image": "pirate_cove.jpg",
+    "description": "<p>At Bart's Cove... Donec sed felis risus. Nulla facilisi. Donec a orci tellus, et auctor odio. Fusce ac orci nibh, quis semper arcu. Cras orci neque, euismod et accumsan ac, sagittis molestie lorem. Proin odio sapien, elementum at tempor non. </p> <p> Vulputate eget libero. In hac habitasse platea dictumst. Integer purus justo, egestas eu consectetur eu, cursus in tortor. Quisque nec nunc ac mi ultrices iaculis. </p>"
+  }
+]
